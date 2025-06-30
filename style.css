@@ -23,5 +23,5 @@ body{
 }
 
 .algo:hover .cosa{
-    
+    transform: rotateY(180deg);
 }
