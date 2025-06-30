@@ -25,3 +25,7 @@ body{
 .algo:hover .cosa{
     transform: rotateY(180deg);
 }
+
+cosa__algo{
+    position: absolute;
+}
