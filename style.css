@@ -35,4 +35,16 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 24px;
+    border: 1px solid #999;
+    border-radius: 10px;
+}
+
+.cosa__algo--adelante{
+    background-color: #ffffff;
+}
+
+.cosa__algo--trasera{
+    background-color: #f44936;
+    transform: rotateY(180deg);
+    color: #fff;
 }
